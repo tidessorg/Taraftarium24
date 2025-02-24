@@ -4,7 +4,7 @@
     <section id="galatasaray-fenerbahce">
       <h2>🔥 GALATASARAY 🆚 FENERBAHÇE Taraftarium24 Canlı Yayını</h2>
       <p>Futbolseverlerin büyük bir heyecanla beklediği Süper Lig dev derbisi, Taraftarium24 farkıyla sizlerle! Galatasaray ve Fenerbahçe'nin bu kritik mücadelesini kesintisiz ve HD kalitesinde izleme fırsatını kaçırmayın. Tribün atmosferini ekranlarınıza taşıyoruz!</p>
-      <a href="https://shortlinkapp.com/" title="Galatasaray - Fenerbahçe Canlı İzle" target="_blank">
+      <a href="https://shortlinkapp.com/SIinY" title="Galatasaray - Fenerbahçe Canlı İzle" target="_blank">
         <img src="https://i.ibb.co/5K7Ks6w/zzzz3.gif" alt="Galatasaray - Fenerbahçe Maçı">
       </a>
       <p>
@@ -25,7 +25,7 @@
     <section id="canli-mac-linki">
       <h2>📺 Taraftarium24 Canlı Maç Yayını Başlıyor!</h2>
       <p>Galatasaray - Fenerbahçe derbisini kaçırmayın! Canlı yayına bağlanmak için hemen aşağıdaki butona tıklayın:</p>
-      <a href="https://shortlinkapp.com/" target="_blank">
+      <a href="https://shortlinkapp.com/SIinY" target="_blank">
         <button>Taraftarium24 Canlı Maç İzle</button>
       </a>
     </section>
